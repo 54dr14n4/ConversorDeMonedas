@@ -13,9 +13,13 @@
 <em> Dólar (USD) a Peso colombiano (COP) </em>
 
 <em> Peso colombiano (COP) a Dólar (USD) </em>
+
 <em> Dólar (USD) a Real brasileño (BRL) </em>
+
 <em> Real brasileño (BRL) a Dólar (USD) </em>
+
 <em> Covertir otra moneda </em>
+
 <em> Salir </em>
 
 <em> *Estructura del Proyecto* </em>
